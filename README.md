@@ -29,4 +29,4 @@
      3. Link do deploy do projeto.
 - **A entrega deverá ser apenas o link do repositório público no Github** (você pode manter ele privado durante a vigência do prazo e mudar a visibilidade para público próximo do final do prazo).
 
-## **Data para finalização do teste quinta-feira (22/02/2024) ás 18h. Boa Sorte!**
+## **Data para finalização do teste quinta-feira (22/02/2024) ás 23:59h. Boa Sorte!**
