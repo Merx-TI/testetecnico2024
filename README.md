@@ -1,10 +1,12 @@
-# Teste prático MERX Energia - TI 2024
+ # Teste prático MERX Energia - TI 2024
 
 ## **Descrição | Proposta**
 - A proposta desse teste é consumir a [Marvel Comics API](https://developer.marvel.com/documentation/getting_started) e construir um website que permita a visualização dos personagens retornados por ela.
 - No link acima você terá acesso a documentação e todos os passos necessários para ter acesso a API.
 - Através disso, será possível avaliar a sua capacidade em manipular o DOM e consumir dados de uma API externa, esse é um desafio exclusivamente de Frontend.
-- O foco da avaliação do teste será em construir uma interface simples e intuitiva para o usuário com as funcionalidades solicitadas bem implementadas. Além disso, os itens que serão avaliados serão o consumo da API, tratamento de dados, UI/UX, implementação das funcionalidades, qualidade de código, segurança de dados e documentação.
+- O foco da avaliação do teste será em construir uma interface simples e intuitiva para o usuário com as funcionalidades solicitadas bem implementadas.
+- Além disso, os itens que serão avaliados serão o consumo da API, tratamento de dados, UI/UX, implementação das funcionalidades, qualidade de código, segurança de dados e documentação.
+- Tenha atenção aos mínimos detalhes que possam ser implementados, mas o mais importante é garantir que o que foi feito, foi entregue com qualidade.
 
 ## **Funcionalidades**
 
@@ -18,9 +20,6 @@
 - React (é recomendado utilizar NextJS, mas pode ser outro framework React de sua preferência);
 - Qualquer framework/biblioteca de estilização que você preferir.
 
-## **Recomendações**
-- Foque em finalizar cada funcionalidade por vez, caso não consiga implementar todas as funcionalidades necessárias, não se preocupe. O mais importante é garantir que o que foi feito, foi entregue com qualidade.
-
 ## **Requisitos**
 - É fundamental que seja feito deploy do projeto final, **a não realização do deploy implicará na imediata desclassificação do candidato**. Existem diversos serviços gratuitos de hospedagem de aplicações. 
 - Também é obrigatório a entrega da documentação do projeto. Faça um README organizado com os principais pontos abaixo:
@@ -31,4 +30,4 @@
 - Iremos disponibilizar os meios de comunicação que o teste poderá ser enviado.
 - Após enviar o link do repositório, é possível realizar commits até o final do prazo de entrega. Commits realizados após o prazo serão desconsiderados.
 
-## **Prazo limite para envio do repositório - 01/09/2024 ás 23:59h. Boa Sorte!**
+## **Prazo limite para envio do repositório - 09/12/2024 ás 23:59h. Boa Sorte!**
